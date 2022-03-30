@@ -1,8 +1,8 @@
 # Aviation_Instruments
 
-## [Horizontal Situation Indicator](https://github.com/DavidJRichards/Aviation_ARINC_Encoder/blob/main/README.md)
+![testbench-view.jpg](./images/testbench-view.jpg)
 
-## [Firmata exercise](./Firmata-exercise.md)
+## [Horizontal Situation Indicator](HSI_WL332.md)
 
 ## [Radio Magnetic Indicator](RMI_PW404.md)
 
@@ -10,4 +10,6 @@
 
 ## [Horizon Gyro](Sperry_MK3.md)
 
-![Synchro rotations](./images/rotations.png)
+## Synchro connections to re-orientate Tx/Rx relationship
+[Synchro rotations](./images/rotations.png)
+Illustration form 'Synchro Engineering Handbook' by Upson & Batchelor, 1965
