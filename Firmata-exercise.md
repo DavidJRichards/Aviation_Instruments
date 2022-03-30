@@ -2,6 +2,8 @@
 
 ![HSI Exercised](./images/HSI-exercised.jpg)
 
+[HSI Exercise video](https://www.youtube.com/watch?v=QJEtBS4G71U)
+
 The HIS has various display annunciators. These have a range of driving requirements from a few micro amps for the galvanometer gauges to 26 volts for the flag solenoids and panel lamps.
 
 An Arduino running Firmata software is a simple way to develop the required test signals. The galvanomer inputs are driven via current limiting resistors from the 5 volt outputs. The 26 volt outputs are boosted using a high side drive chip TD6283AGP from Toshiba.
