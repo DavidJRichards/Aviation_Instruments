@@ -10,6 +10,8 @@
 
 ## [Horizon Gyro](Sperry_MK3.md)
 
+## [Fluxgate frequency doubler](400hz-frequency-doubler.md)
+
 ## Synchro connections to re-orientate Tx/Rx relationship
 [Synchro rotations](./images/rotations.png)
 Illustration form 'Synchro Engineering Handbook' by Upson & Batchelor, 1965
