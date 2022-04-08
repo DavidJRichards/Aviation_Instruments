@@ -10,6 +10,8 @@
 
 ## [Horizon Gyro](Sperry_MK3.md)
 
+## [Detector Unit Type A](DetectorUnit_TypeA.md)
+
 ## [Fluxgate frequency doubler](400hz-frequency-doubler.md)
 
 ## Synchro connections to re-orientate Tx/Rx relationship
