@@ -1,4 +1,4 @@
-#G.M. COMPASS MK.4
+# G.M. COMPASS MK.4
 
 ![Detector overview](./images/Detector_overview.jpg)
 
