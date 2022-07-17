@@ -2,6 +2,8 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Pilots Indicator](Sperry_Indicator.md)
+
 ## [Horizontal Situation Indicator](HSI_WL332.md)
 
 ## [Radio Magnetic Indicator](RMI_PW404.md)
