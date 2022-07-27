@@ -2,6 +2,8 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Compass Computer](Compass_Computer_Mk3.md)
+
 ## [Pilots Indicator](Sperry_Indicator.md)
 
 ## [Horizontal Situation Indicator](HSI_WL332.md)
