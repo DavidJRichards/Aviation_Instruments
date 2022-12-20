@@ -2,7 +2,7 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
-## [Altimeter Encoder](./Aviation_Altimeter_Encoder/readme.md)
+## [Altimeter Encoder](https://github.com/DavidJRichards/Aviation_Altimeter_Encoder/blob/main/README.md)
 
 ## [Compass Computer](Compass_Computer_Mk3.md)
 
