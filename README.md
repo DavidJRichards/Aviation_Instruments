@@ -2,6 +2,8 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Altimeter Encoder](./Aviation_Altimeter_Encoder/readme.md)
+
 ## [Compass Computer](Compass_Computer_Mk3.md)
 
 ## [Pilots Indicator](Sperry_Indicator.md)
