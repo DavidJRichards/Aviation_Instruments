@@ -2,6 +2,8 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Smiths Director Horizon H6](https://github.com/DavidJRichards/Aviation_Smiths_Horizon_H6) 
+
 ## [Altimeter Encoder](https://github.com/DavidJRichards/Aviation_Altimeter_Encoder/blob/main/README.md)
 
 ## [Compass Computer](Compass_Computer_Mk3.md)
