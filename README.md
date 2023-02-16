@@ -6,6 +6,8 @@
 
 ## [Altimeter Encoder](https://github.com/DavidJRichards/Aviation_Altimeter_Encoder/blob/main/README.md)
 
+## [Azimuth Gyro KCA 1903](https://github.com/DavidJRichards/Aviation_Azimuth_Gyro_KCA_1903)
+
 ## [Compass Computer](Compass_Computer_Mk3.md)
 
 ## [Pilots Indicator](Sperry_Indicator.md)
