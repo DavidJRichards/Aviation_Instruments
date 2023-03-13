@@ -2,6 +2,10 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Ferranti Static Inverter](https://github.com/DavidJRichards/Aviation_Static_Inverter) 
+
+## [Leyland Rotary Inverter](https://github.com/DavidJRichards/Aviation_Rotary_Converter) 
+
 ## [Smiths Director Horizon H6](https://github.com/DavidJRichards/Aviation_Smiths_Horizon_H6) 
 
 ## [Altimeter Encoder](https://github.com/DavidJRichards/Aviation_Altimeter_Encoder/blob/main/README.md)
