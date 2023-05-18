@@ -2,6 +2,8 @@
 
 ![testbench-view.jpg](./images/testbench-view.jpg)
 
+## [Ferranti Moving Map Display](https://github.com/DavidJRichards/Aviation_Moving_Map_Display) 
+
 ## [Ferranti Static Inverter](https://github.com/DavidJRichards/Aviation_Static_Inverter) 
 
 ## [Leyland Rotary Inverter](https://github.com/DavidJRichards/Aviation_Rotary_Converter) 
