@@ -1,8 +1,10 @@
 # Aviation_Instruments
 
-![testbench-view.jpg](./images/testbench-view.jpg)
+![testbench-view.jpg](./images/workbench-view.jpg)
 
 ## [Ferranti Moving Map Display](https://github.com/DavidJRichards/Aviation_Moving_Map_Display) 
+
+## [Decca Drift angle and Groundspeed indicator](https://github.com/DavidJRichards/Aviation_DriftAngle_GroundSpeed_Indicator)
 
 ## [Ferranti Static Inverter](https://github.com/DavidJRichards/Aviation_Static_Inverter) 
 

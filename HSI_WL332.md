@@ -91,3 +91,13 @@
 
 ## [Synchro control](./Synchro-control.md)
 
+# Additional information
+
+### [Henk Gooijen's Viperpit HSI webpage](https://www.pdp-11.nl/viperpit/hsi/hsi.html)
+
+### [Henk Gooijen's HSI on Github](https://github.com/PDP11Henk/PDP11Henk/tree/master/F-16%20HSI)
+
+### [Henk Gooijen's HSI on Youtube](https://www.youtube.com/watch?v=7HDIuwM6Voc&t=13s&ab_channel=HenkGooijen)
+
+
+
