@@ -2,9 +2,13 @@
 
 ![testbench-view.jpg](./images/workbench-view.jpg)
 
+## [Aviation Integrants Software](https://github.com/DavidJRichards/Aviation-Integrants) 
+
 ## [Ferranti Moving Map Display](https://github.com/DavidJRichards/Aviation_Moving_Map_Display) 
 
 ## [Decca Drift angle and Groundspeed indicator](https://github.com/DavidJRichards/Aviation_DriftAngle_GroundSpeed_Indicator)
+
+## [Ferranti Control Inverter](https://github.com/DavidJRichards/Aviation_Control_Inverter) 
 
 ## [Ferranti Static Inverter](https://github.com/DavidJRichards/Aviation_Static_Inverter) 
 
